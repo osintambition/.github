@@ -43,7 +43,7 @@ Drop a mail to our founder at dheerajyadavmandlana@gmail.com
 #### 👁️‍🗨️👁️‍🗨️ Stay updated on our latest activities by following us on social media:
 Official Mail - hi@osintambition.org
 
-Newsletter - osintupdates.com
+Newsletter - [osintupdates.com](https://osintupdates.com/)
 
 GitHub - [https://github.com/osintambition](https://github.com/osintambition)
 
